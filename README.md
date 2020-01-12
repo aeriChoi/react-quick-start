@@ -1,5 +1,5 @@
 ## React Quick Start
-2020.01.12 ~ ing
+2020.01.12 ~
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

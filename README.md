@@ -1,6 +1,5 @@
 ## React Quick Start Templates
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 리액트 프로젝트를시작하기 위한 템플릿으로 IE11 호환성을 추가한 버전 입니다.
 
 ## Available Scripts
